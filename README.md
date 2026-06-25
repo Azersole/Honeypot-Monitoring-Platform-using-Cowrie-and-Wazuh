@@ -1,0 +1,1 @@
+# Honeypot-Monitoring-Platform-using-Cowrie-and-Wazuh
