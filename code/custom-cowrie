@@ -1,0 +1,2 @@
+#!/bin/sh
+python3 /var/ossec/integrations/cowrie_enrich.py $1 $2 $3

@@ -1,0 +1,21 @@
+<group name="cowrie,">
+
+<rule id="100001" level="6">
+<decoded_as>json</decoded_as>
+<field name="eventid">cowrie.login.failed</field>
+<description>Cowrie: Failed login</description>
+</rule>
+
+<rule id="100002" level="10">
+<decoded_as>json</decoded_as>
+<field name="eventid">cowrie.login.success</field>
+<description>Cowrie: Successful login</description>
+</rule>
+
+<rule id="100003" level="8">
+<decoded_as>json</decoded_as>
+<field name="eventid">cowrie.command.input</field>
+<description>Cowrie: Command run</description>
+</rule>
+
+</group>
